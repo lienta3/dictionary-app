@@ -7,7 +7,7 @@ function App() {
       <header className="App-header"></header>
       <main>
         <h1>Dictionary App</h1>
-        <Dictionary />
+        <Dictionary defaultKeyword="sunrise" />
       </main>
       <footer>Coded by Lien Ta</footer>
     </div>
